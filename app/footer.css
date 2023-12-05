@@ -1,0 +1,34 @@
+.foo{
+	background-color: #272734;
+	height:120px;
+	border:solid 1px red;
+
+}
+
+
+.icon{
+	float:left;
+	margin-top:55px;
+	background-color: #272734;
+	margin-left:150px;
+}
+.text{
+	font-size:15px;
+	color:white;
+	float:left;
+	margin-top:60px;
+	background-color:#272734;
+}
+	
+
+
+.fc{
+	font-size:15px;
+	color:red;
+	margin-top:60px;
+	background-color:#272734;
+	
+	
+	
+	
+}
