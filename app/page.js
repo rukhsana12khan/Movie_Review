@@ -3,7 +3,7 @@ import  { useState } from 'react';
 import Header from './header.js' ;
 import Movei_l from './movie_l.js';
 import Footer from './footer.js';
-import Add_movie from './add_movie.js'
+// import Add_movie from './add_movie.js'
 import {people} from './data.js';
 
 
@@ -63,7 +63,7 @@ export default  function Page(){
  			vote={like[movei.id]}
  			/>
  		)}
- 		<Add_movie/>
+ 		
  		<Footer/>
  		
  	</>
